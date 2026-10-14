@@ -1,0 +1,2 @@
+Administrator|admin@lankajourney.lk|admin123|Admin
+deshan|deshanbandara@gmail.com|De2004|Customer
